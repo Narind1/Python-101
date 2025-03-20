@@ -1,0 +1,21 @@
+Num.,subject_ID,Sex(M/F),Age(year),Height(cm),Weight(kg),Systolic Blood Pressure(mmHg),Diastolic Blood Pressure(mmHg),Heart Rate(b/m),BMI(kg/m^2),Hypertension,Diabetes,cerebral infarction,cerebrovascular disease
+1,2,Female,45,152,63,161,89,97,27.27,Stage 2 hypertension,,,
+2,3,Female,50,157,50,160,93,76,20.28,Stage 2 hypertension,,,
+16,21,Female,48,150,57,178,86,80,25.33,Stage 2 hypertension,,,
+20,25,Male,51,168,80,161,89,72,28.34,Stage 2 hypertension,,,
+24,30,Male,80,170,70,173,90,73,24.22,Stage 2 hypertension,,,
+25,31,Female,66,150,57,182,102,81,25.33,Stage 2 hypertension,Diabetes,,
+33,45,Male,80,165,45,160,77,59,16.53,Stage 2 hypertension,,,
+37,51,Male,66,162,65,173,107,93,24.77,Stage 2 hypertension,,,
+53,83,Female,77,150,42,182,80,101,18.67,Stage 2 hypertension,,,
+56,86,Female,71,159,80,170,87,74,31.64,Stage 2 hypertension,,cerebral infarction,
+57,87,Female,78,160,55,164,73,85,21.48,Stage 2 hypertension,,cerebral infarction,
+63,93,Male,54,169,64,161,95,78,22.41,Stage 2 hypertension,,,cerebrovascular disease
+77,111,Male,74,170,73,169,76,79,25.26,Stage 2 hypertension,,,cerebrovascular disease
+78,112,Male,61,165,66,173,100,89,24.24,Stage 2 hypertension,,,
+88,125,Female,69,155,60,160,77,88,24.97,Stage 2 hypertension,,,
+95,135,Male,56,165,70,165,86,73,25.71,Stage 2 hypertension,,cerebral infarction,
+113,155,Male,78,165,40,163,63,64,14.69,Stage 2 hypertension,,cerebral infarction,
+149,197,Male,66,160,65,176,80,81,25.39,Stage 2 hypertension,,,
+170,220,Female,55,155,50,174,104,96,20.81,Stage 2 hypertension,Type 2 Diabetes,,
+177,228,Female,52,164,90,169,90,91,33.46,Stage 2 hypertension,Type 2 Diabetes,,
