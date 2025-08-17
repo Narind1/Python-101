@@ -1,0 +1,12 @@
+a=[1,2.4,4,[4,5,8,7],"string",9,8]
+b=[1,4,2,6,6,3,7,9]
+print(a[3][2])
+print(ord(a[4][2]))
+#(b.sort())
+print(b)
+'''b=b[::-1]
+print(b)'''
+'''b[::-1].sort()
+print(b)'''
+b.sort(reverse=True)
+print(b)
