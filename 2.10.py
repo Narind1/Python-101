@@ -1,0 +1,13 @@
+print("a & b","a | b","a ^ b",sep="  ")
+a,b=1,1
+c,d,f=a & b,a | b,a ^ b
+print("",c,d,f,sep="    ")
+a,b=1,0
+c,d,f=a & b,a | b,a ^ b
+print("",c,d,f,sep="    ")
+a,b=0,1
+c,d,f=a & b,a | b,a ^ b
+print("",c,d,f,sep="    ")
+a,b=0,0
+c,d,f=a & b,a | b,a ^ b
+print("",c,d,f,sep="    ")
