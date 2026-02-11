@@ -1,0 +1,15 @@
+import numpy as np
+a = np.array([[1, 2, 3],[4, 5, 6],[7, 8, 9]])
+
+print("Original Array:")
+print(a)
+row_sums = np.sum(a, axis=1)
+print("\nSum of Rows:")
+print(row_sums)
+col_sums = np.sum(a, axis=0)
+print("\nSum of Columns:")
+print(col_sums)
+max_value = np.max(a)
+second_max_value = np.max(a)
+print(f"\nSecond Maximum Element in the Array: {second_max_value}")
+print(a)
