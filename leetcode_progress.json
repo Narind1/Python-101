@@ -1,0 +1,240 @@
+[
+    {
+        "date": "2025-09-10",
+        "day": "Wednesday",
+        "target": 3,
+        "done": 0
+    },
+    {
+        "date": "2025-09-11",
+        "day": "Thursday",
+        "target": 6,
+        "done": 0
+    },
+    {
+        "date": "2025-09-12",
+        "day": "Friday",
+        "target": 9,
+        "done": 0
+    },
+    {
+        "date": "2025-09-13",
+        "day": "Saturday",
+        "target": 12,
+        "done": 0
+    },
+    {
+        "date": "2025-09-14",
+        "day": "Sunday",
+        "target": 15,
+        "done": 0
+    },
+    {
+        "date": "2025-09-15",
+        "day": "Monday",
+        "target": 18,
+        "done": 0
+    },
+    {
+        "date": "2025-09-16",
+        "day": "Tuesday",
+        "target": 21,
+        "done": 0
+    },
+    {
+        "date": "2025-09-17",
+        "day": "Wednesday",
+        "target": 24,
+        "done": 0
+    },
+    {
+        "date": "2025-09-18",
+        "day": "Thursday",
+        "target": 27,
+        "done": 0
+    },
+    {
+        "date": "2025-09-19",
+        "day": "Friday",
+        "target": 30,
+        "done": 0
+    },
+    {
+        "date": "2025-09-20",
+        "day": "Saturday",
+        "target": 33,
+        "done": 0
+    },
+    {
+        "date": "2025-09-21",
+        "day": "Sunday",
+        "target": 36,
+        "done": 0
+    },
+    {
+        "date": "2025-09-22",
+        "day": "Monday",
+        "target": 39,
+        "done": 0
+    },
+    {
+        "date": "2025-09-23",
+        "day": "Tuesday",
+        "target": 42,
+        "done": 0
+    },
+    {
+        "date": "2025-09-24",
+        "day": "Wednesday",
+        "target": 45,
+        "done": 0
+    },
+    {
+        "date": "2025-09-25",
+        "day": "Thursday",
+        "target": 48,
+        "done": 0
+    },
+    {
+        "date": "2025-09-26",
+        "day": "Friday",
+        "target": 51,
+        "done": 0
+    },
+    {
+        "date": "2025-09-27",
+        "day": "Saturday",
+        "target": 54,
+        "done": 0
+    },
+    {
+        "date": "2025-09-28",
+        "day": "Sunday",
+        "target": 57,
+        "done": 0
+    },
+    {
+        "date": "2025-09-29",
+        "day": "Monday",
+        "target": 60,
+        "done": 0
+    },
+    {
+        "date": "2025-09-30",
+        "day": "Tuesday",
+        "target": 63,
+        "done": 0
+    },
+    {
+        "date": "2025-10-01",
+        "day": "Wednesday",
+        "target": 66,
+        "done": 0
+    },
+    {
+        "date": "2025-10-02",
+        "day": "Thursday",
+        "target": 69,
+        "done": 0
+    },
+    {
+        "date": "2025-10-03",
+        "day": "Friday",
+        "target": 72,
+        "done": 0
+    },
+    {
+        "date": "2025-10-04",
+        "day": "Saturday",
+        "target": 75,
+        "done": 0
+    },
+    {
+        "date": "2025-10-05",
+        "day": "Sunday",
+        "target": 78,
+        "done": 0
+    },
+    {
+        "date": "2025-10-06",
+        "day": "Monday",
+        "target": 81,
+        "done": 0
+    },
+    {
+        "date": "2025-10-07",
+        "day": "Tuesday",
+        "target": 84,
+        "done": 0
+    },
+    {
+        "date": "2025-10-08",
+        "day": "Wednesday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-09",
+        "day": "Thursday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-10",
+        "day": "Friday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-11",
+        "day": "Saturday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-12",
+        "day": "Sunday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-13",
+        "day": "Monday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-14",
+        "day": "Tuesday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-15",
+        "day": "Wednesday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-16",
+        "day": "Thursday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-17",
+        "day": "Friday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-18",
+        "day": "Saturday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-19",
+        "day": "Sunday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-20",
+        "day": "Monday",
+        "done": 0
+    },
+    {
+        "date": "2025-10-21",
+        "day": "Tuesday",
+        "done": 0
+    }
+]
